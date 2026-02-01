@@ -1,0 +1,41 @@
+NTN,PTN,G1,G2,G3,G4,G5,Difficulty,Attend Direction,Background,BG Difficulty,Switch Time,Before/After Talker Transition,Comments,Condition,AAD Status,"(M, M)","(M, F)","(F, M)","(F, F)",SUM CHECK,TO KEEP,BegAADOff,StimuliPathFolder
+23,1,M,M,M,M,M,Hard,1,Babble,1,NaN,,,No Switch,1,4,0,0,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+7,2,F,M,M,M,M,Medium,2,Pedestrian,1,NaN,,End Same,No Switch,1,2,0,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+16,3,F,M,F,F,F,Medium,2,Babble,1,NaN,,End Diff,No Switch,1,0,0,2,2,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+21,4,M,M,F,F,F,Easy,2,Babble,1,NaN,,,No Switch,1,0,2,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+24,5,F,F,F,F,F,Hard,1,Babble,1,NaN,,,No Switch,1,0,0,0,4,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+25,6,M,M,M,M,M,Hard,2,Babble,1,NaN,,,No Switch,1,4,0,0,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+19,7,M,M,F,F,F,Easy,1,Babble,1,NaN,,,No Switch,1,0,2,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+15,8,F,M,M,M,M,Medium,1,Pedestrian,1,NaN,,End Same,No Switch,1,2,0,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+12,9,F,F,F,F,F,Hard,1,Pedestrian,1,NaN,,,No Switch,1,0,0,0,4,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+18,10,F,F,M,M,M,Easy,1,Pedestrian,1,NaN,,,No Switch,1,0,2,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+14,11,M,F,F,F,F,Medium,1,Babble,1,NaN,,End Same,No Switch,1,0,2,0,2,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+2,12,M,M,F,F,F,Easy,2,Pedestrian,1,NaN,,,No Switch,1,0,2,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+22,13,F,F,M,M,M,Easy,1,Pedestrian,1,NaN,,,No Switch,1,0,2,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+1,14,M,M,M,M,M,Hard,2,Pedestrian,1,NaN,,,No Switch,1,4,0,0,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+30,15,F,F,F,F,F,Hard,2,Pedestrian,1,NaN,,,No Switch,1,0,0,0,4,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+13,16,M,F,M,M,M,Medium,2,Babble,1,NaN,,End Diff,No Switch,1,2,2,0,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+4,17,M,F,M,F,M,Medium,1,Babble,1,NaN,,End Diff,No Switch,1,1,2,0,1,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+3,18,M,F,M,M,M,Medium,1,Pedestrian,1,NaN,,End Diff,No Switch,1,2,2,0,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+11,19,F,F,M,M,M,Easy,2,Babble,1,NaN,,,No Switch,1,0,2,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+9,20,F,M,F,M,F,Medium,2,Pedestrian,1,NaN,,End Diff,No Switch,1,1,0,2,1,4,1,1,Voice_Mono_UnityRMS_-25dB_2024
+8,21,F,M,M,F,M,Medium,2,Pedestrian,1,23.5,A,End Same,Switch,1,1,0,2,1,4,NaN,NaN,Voice_Mono_UnityRMS_-25dB
+20,22,F,F,M,M,M,Easy,2,Pedestrian,1,21,B,,Switch,1,0,2,2,0,4,NaN,NaN,Voice_Mono_UnityRMS_-25dB
+10,23,F,M,F,F,F,Medium,2,Babble,1,22.5,A,End Diff,Switch,1,0,0,2,2,4,NaN,NaN,Voice_Mono_UnityRMS_-25dB
+6,24,M,F,F,F,F,Medium,2,Babble,1,21,A,End Same,Switch,1,0,2,0,2,4,NaN,NaN,Voice_Mono_UnityRMS_-25dB
+17,25,M,M,F,F,F,Easy,2,Pedestrian,1,22,A,,Switch,1,0,2,2,0,4,NaN,NaN,Voice_Mono_UnityRMS_-25dB
+27,26,M,M,M,M,M,Hard,1,Pedestrian,1,24,A,,Switch,1,4,0,0,0,4,NaN,NaN,Voice_Mono_UnityRMS_-25dB
+26,27,F,F,F,F,F,Hard,1,Pedestrian,1,19.5,B,,Switch,1,0,0,0,4,4,NaN,NaN,Voice_Mono_UnityRMS_-25dB
+5,28,M,F,F,M,F,Medium,1,Babble,1,20,A,End Same,Switch,1,1,2,0,1,4,NaN,NaN,Voice_Mono_UnityRMS_-25dB
+28,29,F,F,F,F,F,Hard,2,Babble,1,17.5,B,,Switch,1,0,0,0,4,4,NaN,NaN,Voice_Mono_UnityRMS_-25dB
+29,30,M,M,M,M,M,Hard,2,Babble,1,22,A,,Switch,1,4,0,0,0,4,NaN,NaN,Voice_Mono_UnityRMS_-25dB
+18,31,F,F,M,M,M,Easy,1,Pedestrian,1,NaN,,,Freestyle,NaN,0,2,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB
+7,32,F,M,M,M,M,Medium,2,Pedestrian,1,NaN,,End Same,Freestyle,NaN,2,0,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB
+25,33,M,M,M,M,M,Hard,2,Babble,1,NaN,,,Freestyle,NaN,4,0,0,0,4,1,1,Voice_Mono_UnityRMS_-25dB
+23,34,M,M,M,M,M,Hard,1,Babble,1,NaN,,,Freestyle,NaN,4,0,0,0,4,1,1,Voice_Mono_UnityRMS_-25dB
+22,35,F,F,M,M,M,Easy,1,Pedestrian,1,NaN,,,Freestyle,NaN,0,2,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB
+13,36,M,F,M,M,M,Medium,2,Babble,1,NaN,,End Diff,Freestyle,NaN,2,2,0,0,4,1,1,Voice_Mono_UnityRMS_-25dB
+14,37,M,F,F,F,F,Medium,1,Babble,1,NaN,,End Same,Freestyle,NaN,0,2,0,2,4,1,1,Voice_Mono_UnityRMS_-25dB
+3,38,M,F,M,M,M,Medium,1,Pedestrian,1,NaN,,End Diff,Freestyle,NaN,2,2,0,0,4,1,1,Voice_Mono_UnityRMS_-25dB
+30,39,F,F,F,F,F,Hard,2,Pedestrian,1,NaN,,,Freestyle,NaN,0,0,0,4,4,1,1,Voice_Mono_UnityRMS_-25dB
+21,40,M,M,F,F,F,Easy,2,Babble,1,NaN,,,Freestyle,NaN,0,2,2,0,4,1,1,Voice_Mono_UnityRMS_-25dB

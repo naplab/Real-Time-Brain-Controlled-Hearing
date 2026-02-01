@@ -1,0 +1,27 @@
+NTN,G1,G2,G3,G4,G5,Difficulty,Attend Direction,Background,BG Difficulty,Condition
+1,M,M,M,M,M,Hard,L,Babble,1,-1
+2,M,M,F,F,F,Easy,L,Babble,1,-1
+3,M,F,M,M,M,Medium,L,Pedestrian,1,0
+4,M,F,M,F,M,Medium,R,Pedestrian,1,0
+5,M,F,F,M,F,Medium,L,Pedestrian,1,0
+6,M,F,F,F,F,Medium,R,Babble,1,0
+7,F,M,M,M,M,Medium,L,Pedestrian,1,1
+8,F,M,M,F,M,Medium,L,Babble,1,0
+9,F,M,F,M,F,Medium,R,Pedestrian,1,-1
+10,F,M,F,F,F,Medium,R,Babble,1,1
+11,F,F,M,M,M,Easy,R,Babble,1,-1
+12,F,F,F,F,F,Hard,R,Pedestrian,1,1
+13,M,F,M,M,M,Medium,R,Babble,1,0
+14,M,F,F,F,F,Medium,L,Babble,1,1
+15,F,M,M,M,M,Medium,L,Pedestrian,1,-1
+16,F,M,F,F,F,Medium,R,Babble,1,-1
+17,M,M,F,F,F,Easy,R,Babble,1,1
+18,F,F,M,M,M,Easy,L,Pedestrian,1,-1
+19,M,M,F,F,F,Easy,L,Pedestrian,1,1
+20,F,F,M,M,M,Easy,R,Pedestrian,1,1
+21,M,M,F,F,F,Easy,L,Babble,1,1
+22,F,F,M,M,M,Easy,R,Pedestrian,1,-1
+23,M,M,M,M,M,Hard,L,Pedestrian,1,-1
+24,F,F,F,F,F,Hard,R,Babble,1,1
+25,M,M,M,M,M,Hard,R,Babble,1,-1
+26,F,F,F,F,F,Hard,L,Pedestrian,1,1

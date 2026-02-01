@@ -1,0 +1,2 @@
+NTN,PTN,G1,G2,G3,G4,G5,Difficulty,Attend Direction,Background,BG Difficulty,Switch Time,Before/After Talker Transition,Comments,Condition,AAD Status,"(M, M)","(M, F)","(F, M)","(F, F)",SUM CHECK,TO KEEP,BegAADOff,StimuliPathFolder,Start Time,End Time,Rating,Chosen1,GotCorrect1,Chosen2,GotCorrect2
+23,1,M,M,M,M,M,Hard,1,Babble,1,NaN,,,No Switch,1,4,0,0,0,4,1,1,Voice_Mono_UnityRMS_-25dB_2024,02-01-2026-13-06-22-907,02-01-2026-13-07-01-574,2,C,0,B,0
