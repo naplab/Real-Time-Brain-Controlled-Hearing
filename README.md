@@ -78,19 +78,19 @@ This work establishes a critical benchmark for future personalized and intent-dr
 
 ### 1. `stimuli-design/`
 
-Contains scripts and resources for running behavioral experiments.
+Contains scripts and resources for running experiments.
 
 #### Offline Phase
 
 - A multi-tallker experiment paradigm with two competing conversations
 - Participant is cued to follow one of the two conversations
-- Training data for the model to be trained and deployed during the online phase
+- For obtaining training data for the model, then deployed during the online phase
 
 #### Online Phase
 
 - Runs the real-time closed-loop task
 - Paradigm same as the offline phase
-- Target-to-masker ratio (TMR) is dynamically controlled using decoded brain signals (unknown to the participant)
+- Target-to-masker ratio (TMR) is dynamically controlled using decoded brain signals (participant is unaware)
 - Enables adaptive enhancement of the attended speech stream
 
 This module interfaces directly with the real-time decoder to update gains of the conversations based on the decoded neural state of the participant.
@@ -108,7 +108,7 @@ Functionality includes:
 - Cross-validation and performance evaluation
 - Generation of subject-specific decoding models
 
-Trained models are stored and later deployed in the real-time decoding pipeline.
+Trained models are saved and later deployed in the real-time decoding pipeline.
 
 ---
 
@@ -153,13 +153,6 @@ Note: Raw data may be restricted due to ethical and privacy considerations.
 
 ## ▶️ Usage
 
-### Training AAD Models
-
-```matlab
-cd model-trainer/functions
-train_model
-```
-
 ### Running Offline Experiments
 
 ```matlab
@@ -167,11 +160,11 @@ cd stimuli-design/offline
 run_exp_offline_v3
 ```
 
-### Running Online Closed-Loop Experiments
+### Training AAD Models
 
 ```matlab
-cd stimuli-design/online
-run_exp_online_v3
+cd model-trainer/functions
+train_model
 ```
 
 ### Starting the Real-Time Decoder
@@ -179,6 +172,13 @@ run_exp_online_v3
 ```matlab
 cd real-time-decoder
 run_decoder
+```
+
+### Running Online Closed-Loop Experiments
+
+```matlab
+cd stimuli-design/online
+run_exp_online_v3
 ```
 
 Ensure that neural data streams and stimulus presentation modules are synchronized before running online experiments.
