@@ -1,4 +1,4 @@
-# Real-time Brain-Controlled Selective Hearing Enhances Speech Perception in Multi-Talker Environments
+# Real-Time Brain-Controlled Selective Hearing Enhances Speech Perception in Multi-Talker Environments
 
 ## 🧠 Introduction
 
