@@ -195,20 +195,15 @@ Researchers interested in reproducing or extending this work are encouraged to c
 
 ## 📚 Citation
 
-If you use this code or build upon this work, please cite:
-
-```
-Choudhari, V. et al. Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments. Nature Neuroscience (in press).
-```
-
-BibTeX (to be updated upon publication):
+If you use this code, dataset, or build upon this work, please cite:
 
 ```bibtex
-@article{choudhari2026braincontrolled,
+@article{choudhari2026realtime,
   title   = {Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments},
-  author  = {Choudhari, Vishal and others},
+  author  = {Choudhari, Vishal and Nentwich, Maximilian and Johnson, Sarah and Herrero, Jose L. and Bickel, Stephan and Mehta, Ashesh D. and Friedman, Daniel and Flinker, Adeen and Chang, Edward F. and Mesgarani, Nima},
   journal = {Nature Neuroscience},
   year    = {2026},
-  note    = {In press}
+  doi     = {10.1038/s41593-026-02281-5},
+  url     = {https://doi.org/10.1038/s41593-026-02281-5}
 }
 ```
