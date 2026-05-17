@@ -1,6 +1,7 @@
 # Real-Time Brain-Controlled Selective Hearing Enhances Speech Perception in Multi-Talker Environments
 
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41593--026--02281--5-blue)](https://doi.org/10.1038/s41593-026-02281-5)
+[![Journal](https://img.shields.io/badge/Journal-Nature%20Neuroscience-green)](https://www.nature.com/natureneuroscience/)
 
 ## 🧠 Introduction
 
